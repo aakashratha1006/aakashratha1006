@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashratha1006&show_icons=true&theme=tokyonight)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashratha1006&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aakashratha1006.aakashratha1006)
-[![Github](https://img.shields.io/github/followers/?label=Follow&style=social)](https://github.com/aakashratha1006)

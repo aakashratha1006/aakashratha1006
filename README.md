@@ -1,5 +1,10 @@
 <img src="img1.jpeg" width="1000" height="500">
 <h1>Hi there 👋</h1>
+
+## ✉️ Find me on:
+
+
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/aakash-ratha-72b552191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,7 +15,8 @@
 <a target="_blank" href="mailto:aakash.ratha2000@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<hr>
+</p>
+<br />
 
 <!--
 **aakashratha1006/aakashratha1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

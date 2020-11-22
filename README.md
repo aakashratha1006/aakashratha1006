@@ -1,4 +1,3 @@
-![alt text](https://github.com/[aakashratha1006]/[aakashratha1006]/blob/[main]/img1.jpeg?raw=true)
 ### Hi there 👋
 
 <!--
